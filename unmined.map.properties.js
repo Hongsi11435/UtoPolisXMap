@@ -5,10 +5,10 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -18,
-    minRegionZ: -9,
+    minRegionZ: -12,
     maxRegionX: 5,
     maxRegionZ: 11,
-    worldName: "UtoPolis X - Expositions! 240229",
+    worldName: "UtoPolis X - Expositions! 240505",
     background: "",
     markers: new Array()
 }
